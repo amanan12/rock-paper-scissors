@@ -1,0 +1,145 @@
+body{
+  margin-top: 40px;
+  background: url("http://cdn01.wallconvert.com/_media/wallpapers_1920x1080/1/2/rock-paper-scissors-14676.png") no-repeat;
+  background-size: cover;
+  position: fixed;
+}
+button{
+  background-color: #6699CC;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px black;
+  border-color: red;
+  cursor: pointer;
+}
+#rok{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 200px;
+}
+#per{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 500px;
+}
+#sic{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 800px;
+}
+#pok{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 1100px;
+}
+#liz{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 1400px;
+}
+#a{
+  width: 200px;
+  height: 200px;
+}
+#b{
+  width: 200px;
+  height: 200px;
+}
+#c{
+  width: 200px;
+  height: 200px;
+}
+#d{
+  width: 200px;
+  height: 200px;
+}
+#e{
+  width: 200px;
+  height: 200px;
+}
+section {
+  margin-bottom: 10px;
+}
+
+section div {
+  display: inline-block;
+  height: 60px;
+  margin-top: 400px;
+  padding-left: 20px;
+  text-align: center;
+}
+#g{
+  font-size: 40px;
+  border: none;
+  left: 200px;
+  position: absolute;
+  width: 230px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+  font-weight: bold; 
+}
+#ap{
+  border: none;
+  left: 800px;
+  position: absolute;
+  font-size: 40px;
+  width: 250px;
+  font-family: "Times New Roman", Times, serif; 
+  font-style: oblique;
+  font-weight: bold;
+}
+#app{
+  border: none;
+  left: 1400px;
+  position: absolute;
+  font-size: 40px;
+  width: 310px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+  font-weight: bold;
+}
+
+#box{
+  height: 65px;
+  width: 400px;
+  position: absolute;
+  left: 200px;
+  margin-top: 475px;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+  font-weight: bold;
+}
+#rps{
+  border: solid 1px;
+  width: 540px; 
+  height: 500px; 
+  margin-top: 500px;
+  position: absolute;
+  left: 1360px
+}
+#me{
+  border: solid 1px;
+  border-radius: 10px;
+  width: 250px;
+  height: 90px;
+  position: absolute;
+  margin-top: 800px;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+  background-color: #6699CC;
+  box-shadow: 10px 10px 5px black;
+  color: blue;
+  border-color: red;
+  cursor: default;
+}
+u{
+  text-decoration: underline;
+}
